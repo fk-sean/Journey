@@ -5,4 +5,4 @@ Journaling my Cybersecurity Journey
 Currently learning foundational Knowledge on TryHackMe. I am 45% through Pre-Security, learning about How Websites Work. 
 
 ## Journey Update 6/15/2026
-I just used my first virtual lab on TryHackMe and learned how to look at GET requests. I am currently on the Computer fundamentals section in Pre-Security on TryHackMe.
+I just used my first virtual lab on TryHackMe and learned how to look at GET requests, seeing in real time how a client request and server happen in real time behind the scenes. I am currently on the Computer fundamentals section in Pre-Security on TryHackMe.
