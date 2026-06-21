@@ -15,3 +15,5 @@ I practiced using the Windows Command Prompt to Navigate files and folders witho
 
 ## Journey Update 6/20/2026
 I learned about operating system security. The operating system sits between hardware and software, being the bridge to ensure everything runs smoothly. I also learned the CIA principle: Confidentiality (the right people have access to secure files), Integrity (Files are not tampered with while stored on a system or being transferred on the network), and Availability (device is available to use at anytime). Common examples of OS security challenges include authentication and weak passwords (e.g. using a common password or not having MFA), weak file permissions (e.g. files should only be accessible to those who need it), and malicious programms (e.g. ransomware). 
+
+I also used a virtual machine and a attacker machine on TryHackMe to simulate hacking into and explore and account, using the ssh username@IPv4, ls, cat, and history Linux commands. I used a list of common passwords to guess the password (a common tactice of hackers). 
